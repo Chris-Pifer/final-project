@@ -21,4 +21,6 @@ Group members:
 
 Contributors:
   -Christopher Pifer
+  
 Open issues/bugs:
+  None so far, if you find any please let me know though. They are always out there.
