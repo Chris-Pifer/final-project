@@ -6,7 +6,7 @@ Project summary:
   
 How to run:
 
-  Personally i recommend you download the pre-built .exe file and just run it, as build settings for multi file projects can be finicky if you're unfamiliar with them (like me). You can find the download for the exe in the Github "releases" tab for this repository. The old functions from assignment 4 have been temporarily disabled so you don't have to mess with text files and file paths. Also they aren't really relevant to the new stuff.
+  Personally i recommend you download the pre-built .exe file and just run it, as build settings for multi file projects can be finicky if you're unfamiliar with them (like me). You can find the download for the exe in the Github "releases" tab for this repository. Which is up in that bar with the commits and branches and whatnot. The old functions from assignment 4 have been temporarily disabled so you don't have to mess with text files and file paths. Also they aren't really relevant to the new stuff.
   
   However, if you want to build the project yourself, the 3 files you need are here on github: main.cpp, class.cpp, and Final.h. To build these you would need to make a new project, add these files, and then make sure all the linking and target destination settings were correct for using multiple files and headers. What those settings are will depend on the IDE you use, so i can't really help you with that. If you want to give building it a shot and you can't get it to work, you can always just use the pre-built exe.
 
